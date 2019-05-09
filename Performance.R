@@ -130,7 +130,7 @@ results %>%
 
 library(ggplot2)
 results_emphasis <- results %>%
-    filter(name %in% c("Betweenness")) #c("PR values"))
+    filter(name %in% c("PR values"))
 legend_y <- results %>%
     filter(k == 6) %>%
     select(name, efficiency)
