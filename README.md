@@ -8,4 +8,4 @@ No lisence is given to use this code or any algorithms expressed in this code in
 We do not give any warranty or expression of fitness for any purpose.
 
 Please cite our work as: <br>
-Ai, X. New Metrics for Node Importance Evaluation in Occupational Injury Network. *IEEE Access* **2019**, 7: 61874-61882
+Ai, X. New Metrics for Node Importance Evaluation in Occupational Injury Network. *IEEE Access* **2019**, 7(1): 61874-61882
